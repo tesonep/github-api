@@ -1,4 +1,4 @@
 request
 queryArguments
 	
-	^ #()
+	^ Dictionary new

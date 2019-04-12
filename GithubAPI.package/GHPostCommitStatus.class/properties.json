@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "GHPostRequest",
+	"category" : "GithubAPI-Requests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"commit",
+		"state",
+		"owner",
+		"repository",
+		"description",
+		"statusURL",
+		"context"
+	],
+	"name" : "GHPostCommitStatus",
+	"type" : "normal"
+}

@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "GHGetRequest",
+	"name" : "GHPostRequest",
 	"type" : "normal"
 }
