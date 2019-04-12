@@ -1,4 +1,0 @@
-parsing
-rawContents
-	
-	^ response contents

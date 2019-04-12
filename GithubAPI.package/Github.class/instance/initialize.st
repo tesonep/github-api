@@ -1,4 +1,0 @@
-call
-initialize
-
-	self anonymous

@@ -1,3 +1,0 @@
-request
-queryArguments
-	^ {} asDictionary

@@ -1,4 +1,0 @@
-request
-queryArguments
-	
-	^ Dictionary new
