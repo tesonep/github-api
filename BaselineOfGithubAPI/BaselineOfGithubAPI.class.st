@@ -13,5 +13,6 @@ BaselineOfGithubAPI >> baseline: spec [
 		spec baseline: 'ZTimestamp' with: [
 			spec
 				repository: 'github://svenvc/ztimestamp';
-				loads: 'default' ] ]
+				loads: 'default' ].
+		spec package: #GithubAPI with: [ spec requires: #( 'ZTimestamp' ) ] ]
 ]
