@@ -1,1 +1,1 @@
-Package { #name : #BaselineOfGithubAPI }
+Package { #name : 'BaselineOfGithubAPI' }
